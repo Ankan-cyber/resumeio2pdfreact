@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resumeio2pdfreact/static/css/main.c05b3222.css",
+    "main.js": "/resumeio2pdfreact/static/js/main.d3ba9954.js",
+    "static/js/498.7d3d6ab9.chunk.js": "/resumeio2pdfreact/static/js/498.7d3d6ab9.chunk.js",
+    "static/js/703.643fd751.chunk.js": "/resumeio2pdfreact/static/js/703.643fd751.chunk.js",
+    "static/js/760.9b88762a.chunk.js": "/resumeio2pdfreact/static/js/760.9b88762a.chunk.js",
+    "static/js/787.5e334996.chunk.js": "/resumeio2pdfreact/static/js/787.5e334996.chunk.js",
+    "service-worker.js": "/resumeio2pdfreact/service-worker.js",
+    "index.html": "/resumeio2pdfreact/index.html",
+    "main.c05b3222.css.map": "/resumeio2pdfreact/static/css/main.c05b3222.css.map",
+    "main.d3ba9954.js.map": "/resumeio2pdfreact/static/js/main.d3ba9954.js.map",
+    "498.7d3d6ab9.chunk.js.map": "/resumeio2pdfreact/static/js/498.7d3d6ab9.chunk.js.map",
+    "703.643fd751.chunk.js.map": "/resumeio2pdfreact/static/js/703.643fd751.chunk.js.map",
+    "760.9b88762a.chunk.js.map": "/resumeio2pdfreact/static/js/760.9b88762a.chunk.js.map",
+    "787.5e334996.chunk.js.map": "/resumeio2pdfreact/static/js/787.5e334996.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05b3222.css",
+    "static/js/main.d3ba9954.js"
+  ]
+}
